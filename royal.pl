@@ -1,4 +1,6 @@
-/* Royal Family of England 1900-2000 */
+/* Marie Morin
+ * CSCI 305 Prolog Lab 2
+ * Royal Family of England 1900-2000 */
 
 female('Queen Victoria').
 female('Princess Alexandra of Denmark').
