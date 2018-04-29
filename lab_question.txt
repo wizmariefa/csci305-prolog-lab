@@ -1,0 +1,39 @@
+% Marie Morin
+% CSCI 305 Prolog Lab 2
+
+1. King George VI
+2. Queen Mary
+3. King George V
+4. King George V, Queen Mary
+5. Prince William & Prince Henry
+6. Princess Margaret
+7. Prince Charles, Prince Andrew, Prince Edward
+8. Princess Anne
+9. None
+10. Catherine Middleton
+11. Prince Charles, Lady Diana Spencer, Queen Elizabeth II, Prince Philip,
+    King George VI, Lady Elizabeth Bowes-Lyon, King George V, Queen Mary,
+    King Edward VII, Princess Alexandra of Denmark, Prince Albert,
+    Queen Victoria
+12. None
+13. False
+14. Queen Victoria, Princess Alexandra of Denmark, Queen Mary, Mrs Simpson,
+    Lady Elizabeth Bowes-Lyon, Prince Albert, King Edward VII, King George V,
+    King Edward VIII, King George VI, Prince Philip
+15. King George V
+16. It's not verbose at all! I really like that it's easy to see what's all
+    going on, and not having to read a multi-line method to just see what it's
+    about to do.
+17. Honestly I don't really have any dislikes. It was pretty simple and I like
+    the way that it works.
+18. Yes! I understood what I was doing and got into a "rhythm" that just worked
+    for me. I did enjoy this lab and it's cool how prolog works with what we
+    did in this lab.
+19. Probably 2 hours tops, it didn't really take me long once I sat down and got
+    into a groove with it.
+20. I don't really know! I know that it is sometimes used in AI, but I don't see
+    myself going into that field soooo probably not.
+
+EXTRA CREDIT
+1. Viscount Linley, Lady Sarah Chatto
+2. Viscount Linley, Lady Sarah Chatto
